@@ -1,0 +1,5 @@
+rich
+pandas
+scikit-learn
+requests
+groq
